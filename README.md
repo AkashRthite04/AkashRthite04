@@ -1,24 +1,29 @@
-# Hi, I'm Akash Thite 👋
+<h1 align="center">Hi 👋, I'm Akash Thite</h1>
+<h3 align="center">MERN Stack Developer | B.Tech CSE Student</h3>
 
-💻 MERN Stack Developer
-🎓 B.Tech Computer Science
-🚀 Learning Full Stack Development
+🌱 Currently learning Full Stack Development
 
-## Tech Stack
+💻 Tech Stack:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode,tailwind" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+📊 GitHub Stats
 
-## GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=AkashRthite04&show_icons=true&theme=tokyonight)
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+🔥 GitHub Streak
 
-## GitHub Streak
+![](https://streak-stats.demolab.com?user=AkashRthite04&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+🏆 GitHub Trophies
 
-## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AkashRthite04)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
+### Projects
+- 🌍 WorldAtlas
+- 🛡️ Women Safety App
+- 🤖 AI Quiz Generator
+
+### Connect With Me
+- GitHub: https://github.com/AkashRthite04
