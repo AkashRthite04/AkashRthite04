@@ -8,9 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;B.Tech+CSE+Student;DevOps+Learner;Open+Source+Enthusiast" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashRthite04&theme=tokyonight" />
-</p>
 
 🌱 Currently learning Full Stack Development
 
