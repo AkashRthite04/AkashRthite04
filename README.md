@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Akash Thite 👋
 
-<!--
-**AkashRthite04/AkashRthite04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer
+🎓 B.Tech Computer Science
+🚀 Learning Full Stack Development
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+## GitHub Stats
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+
+## GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)
